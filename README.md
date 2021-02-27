@@ -59,5 +59,3 @@ Percentage spent by category
         n     
         g     
 ```
-
-The unit tests for this project are in `test_module.py`.
